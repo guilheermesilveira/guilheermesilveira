@@ -1,4 +1,10 @@
 ## Olá, amigos desenvolvedores! Eu sou o Guilherme Silveira!
 
 - Trabalho com desenvolvimento Back-end
-- Estudando todas as nuances de Java
+
+## 🔗 Links
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guilherme-silveira-013b75249/)
+
+
+## 🛠 Habilidades
+Java 
