@@ -1,6 +1,7 @@
-## Olá! Eu sou o desenvolvedor Guilherme Silveira!
+## Olá! Eu sou o desenvolvedor Guilherme!
 
-- Desenvolvo aplicações para Web utilizando o ecossistema .NET. 
+- Desenvolvo aplicações para Web utilizando o ecossistema .NET.
+- Sou graduando em Ciência da Computação pelo Instituto Federal de Educação, Ciência e Tecnologia do Ceará. 
 
 ## 🔗 Links
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guilherme-silveira-013b75249/)
