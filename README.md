@@ -7,8 +7,13 @@
 
 ## 🔗 Links
 
-<a href="https://www.linkedin.com/in/guilherme-silveira-013b75249/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-<a href = "guilhermesilveirasousa@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href="https://www.linkedin.com/in/guilherme-silveira-013b75249/" target="_blank">
+  <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)" alt="Linkedin"/>
+</a>
+
+<a href="mailto:guilhermesilveirasousa@gmail.com" target="_blank">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+</a>
 
 ## 🛠 Habilidades
 ![CSHARP](https://img.shields.io/badge/-CSharp-333333?style=flat&logo=csharp)
