@@ -1,10 +1,14 @@
-## Olá! Eu sou o desenvolvedor Guilherme!
+## Olá, bem-vindo ao meu GitHub!
 
+- Me chamo Guilherme Silveira.
 - Desenvolvo aplicações para Web utilizando o ecossistema .NET.
+- Aqui você encontra todos os projetos desenvolvidos por mim.
 - Sou graduando em Ciência da Computação pelo Instituto Federal de Educação, Ciência e Tecnologia do Ceará. 
 
 ## 🔗 Links
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guilherme-silveira-013b75249/)
+
+<a href = "mailto:contatorafaballerini@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href="https://www.linkedin.com/in/rafaella-ballerini-45875016a" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 
 ## 🛠 Habilidades
 ![CSHARP](https://img.shields.io/badge/-CSharp-333333?style=flat&logo=csharp)
