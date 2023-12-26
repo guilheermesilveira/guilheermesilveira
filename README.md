@@ -1,7 +1,6 @@
 ## Olá, bem-vindo ao meu GitHub!
 
 - Me chamo Guilherme Silveira.
-- Desenvolvo aplicações para a Web utilizando o ecossistema ASP.NET (backend) e o framework Angular (frontend).
 - Aqui você encontra todos os projetos desenvolvidos por mim.
 - Sou graduando em Ciência da Computação pelo Instituto Federal de Educação, Ciência e Tecnologia do Ceará. 
 
