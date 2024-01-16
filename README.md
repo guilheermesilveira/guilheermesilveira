@@ -15,8 +15,6 @@
 </a>
 
 ## 🛠 Habilidades
-![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
 ![CSHARP](https://img.shields.io/badge/-CSharp-333333?style=flat&logo=csharp)
-![Mysql](https://img.shields.io/badge/-Mysql-333333?style=flat&logo=mysql)
 ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
