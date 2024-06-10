@@ -2,7 +2,6 @@
 
 - Me chamo Guilherme Silveira.
 - Aqui você encontra todos os projetos desenvolvidos por mim.
-- Sou graduando em Ciência da Computação pelo Instituto Federal de Educação, Ciência e Tecnologia do Ceará. 
 
 ## 🔗 Links
 
