@@ -1,8 +1,7 @@
 <h1>Bem-vindo ao meu perfil 👋</h1>
 
-<p> 
-  Sou Guilherme Silveira, desenvolvedor web full stack. Possuo conhecimento em desenvolvimento back-end com C# e .NET e desenvolvimento front-end com JavaScript,
-  TypeScript, Angular e React.
+<p>
+  Sou Guilherme Silveira, desenvolvedor web full stack. Possuo conhecimento em desenvolvimento back-end com C# e .NET e desenvolvimento front-end com TypeScript e Angular.
 </p>
 
 <h2>Tecnologias 💻</h2>
@@ -10,12 +9,8 @@
 <div>
   <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" width="40" height="40">
   <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dotnetcore/dotnetcore-original.svg" width="40" height="40">
-  <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="40" height="40">
-  <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="40" height="40">
-  <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="40" height="40">
   <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" width="40" height="40">
   <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg" width="40" height="40">
-  <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="40" height="40">
 </div>
 
 <h2>Contato 📫</h2>
