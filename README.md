@@ -1,17 +1,8 @@
 <h1>Bem-vindo ao meu perfil 👋</h1>
 
 <p>
-  Sou Guilherme Silveira, desenvolvedor web full stack. Possuo conhecimento em desenvolvimento back-end com C# e .NET e desenvolvimento front-end com TypeScript e Angular.
+  Sou Guilherme Silveira, desenvolvedor full stack. Possuo conhecimento em desenvolvimento back-end com Spring, .NET e desenvolvimento front-end com Angular.
 </p>
-
-<h2>Tecnologias 💻</h2>
-
-<div>
-  <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" width="40" height="40">
-  <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dotnetcore/dotnetcore-original.svg" width="40" height="40">
-  <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" width="40" height="40">
-  <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg" width="40" height="40">
-</div>
 
 <h2>Contato 📫</h2>
 
