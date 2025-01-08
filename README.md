@@ -1,7 +1,7 @@
 <h1>Bem-vindo ao meu perfil 👋</h1>
 
 <p>
-  Sou Guilherme Silveira, desenvolvedor full stack. Possuo conhecimento em desenvolvimento back-end com Spring, .NET e desenvolvimento front-end com Angular.
+  Sou Guilherme Silveira, desenvolvedor full stack com conhecimento em Java (Spring), C# (.NET) e JavaScript/TypeScript (Angular).
 </p>
 
 <h2>Contato 📫</h2>
